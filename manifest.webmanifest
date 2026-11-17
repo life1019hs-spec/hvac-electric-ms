@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "鉅鑫空調｜電力單線圖",
+  "short_name": "鉅鑫電力圖",
+  "description": "工程配電盤電力單線圖與線徑試算",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3edfc",
+  "theme_color": "#62349d",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
